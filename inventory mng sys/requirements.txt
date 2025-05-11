@@ -1,0 +1,6 @@
+# This file is used to install the required packages for the project.
+# You can install the packages using pip:
+
+streamlit
+sqlalchemy
+pandas
